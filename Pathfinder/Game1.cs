@@ -55,7 +55,7 @@ namespace Pathfinder
             TargetElapsedTime = TimeSpan.FromTicks(TimeSpan.TicksPerSecond / TargetFrameRate);
             //load level map
             level = new Level();
-            level.Loadmap("../../../Content/4.txt");
+            level.Loadmap("../../../Content/5.txt");
             //instantiate bot and player objects
             bot = new AiBotStatic(10, 20);
             player = new Player(30, 20);

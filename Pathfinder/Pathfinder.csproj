@@ -62,6 +62,7 @@
     <Content Include="Content\1.txt" />
     <Content Include="Content\2.txt" />
     <Content Include="Content\3.txt" />
+    <Content Include="Content\5.txt" />
     <Content Include="Content\4.txt" />
     <Content Include="Icon.ico" />
   </ItemGroup>
